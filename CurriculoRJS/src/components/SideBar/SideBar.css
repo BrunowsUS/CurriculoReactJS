@@ -1,0 +1,25 @@
+.sidebar {
+    background-color: orange;
+    width: 150px;
+    height: 100vh;
+}
+
+.sidebar img {
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.side-container {
+    justify-content: center;
+}
+
+.side-container ul li {
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.side-container {
+    display: flex;
+}
